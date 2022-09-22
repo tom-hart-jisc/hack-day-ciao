@@ -72,3 +72,4 @@ gem 'simple_form'
 gem 'tabler-rubygem'
 gem 'yabeda-prometheus'
 gem 'yabeda-rails'
+gem "tailwindcss-rails", "~> 2.0"

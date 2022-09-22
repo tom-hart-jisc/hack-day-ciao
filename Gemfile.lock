@@ -234,6 +234,10 @@ GEM
       sprockets (>= 3.0.0)
     tabler-rubygem (0.1.4)
       autoprefixer-rails (>= 6.0.3)
+    tailwindcss-rails (2.0.14-arm64-darwin)
+      railties (>= 6.0.0)
+    tailwindcss-rails (2.0.14-x86_64-linux)
+      railties (>= 6.0.0)
     thor (1.2.1)
     tilt (2.0.10)
     turbolinks (5.2.1)
@@ -302,6 +306,7 @@ DEPENDENCIES
   simple_form
   spring
   tabler-rubygem
+  tailwindcss-rails (~> 2.0)
   turbolinks (~> 5)
   tzinfo-data
   web-console (>= 4.1.0)
